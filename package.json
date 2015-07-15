@@ -1,0 +1,11 @@
+{
+  "name": "slacker",
+  "version": "1.0.0",
+  "description": "A node module to interact with slack API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Warman",
+  "license": "ISC"
+}
